@@ -1,3 +1,3 @@
 # Django-Polls
 
-My follow through of "Writing your first Django app" on Django's [website](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+My follow through of Django's "Writing your first Django app" located [here](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
